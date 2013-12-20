@@ -350,6 +350,7 @@ button,
 input {
     line-height: normal; /* 1 */
 	border-radius: 0px;
+    -webkit-font-smoothing: antialiased;
 }
 
 /*
